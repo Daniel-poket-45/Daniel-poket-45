@@ -1,7 +1,8 @@
 ## My skills in development
   * _**years of C/C++**_
-  * _**Firmware and PLC programming**_
+  * _**Firmwares and PLC programming**_
   * _**Studing GO - golang**_
+  * _**Studing Assembly ARM/AMD**_
   * _**Manual MakeFiles**_
   * _**Studing HTML/CSS/JS**_
   * _**Shell script**_
