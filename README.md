@@ -1,7 +1,7 @@
 Welcome, thanks for visiting ;)
 
 <p align="center">
-![Visitantes](https://count.getloli.com/@visit-counter?name=visit-counter&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+  <img src="https://count.getloli.com/@visit-counter?name=visit-counter&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" alt="Visitantes">
 </p>
 
 ## My skills in development
