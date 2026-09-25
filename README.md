@@ -27,11 +27,11 @@
 
   * ### _**Cross compiling softwares & configurations for OpenWRT**_ <img src="https://img.shields.io/badge/OpenWRT-%2300B5E2.svg?style=for-the-badge&logo=OpenWrt&logoColor=white" height="20" style="vertical-align: middle;">
 
-  * ### _**NGINX WEB deploy and proxy operations**_ <img = src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20" style="vertical-align: middle;">
+  * ### _**NGINX WEB deploy and proxy operations**_ <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="20" style="vertical-align: middle;">
 
  * ### _**Specific Servers/Switches/Routers CLI programs or configurations**_ <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white" height="20" style="vertical-align: middle;">
 
-* ### _**ProxMox PVE and PBS complete**_ <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" height="20" style="vertical-align: middle;">
+* ### _**PROXMOX PVE/PBS complete integration**_ <img src="https://img.shields.io/badge/proxmox-%23E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white" height="20" style="vertical-align: middle;">
 
 ## My PUBLIC 🌎 projects:
 
