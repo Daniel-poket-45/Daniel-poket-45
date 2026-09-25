@@ -12,9 +12,9 @@
     
   * ### _**Firmware's and PLC programming**_ <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/raspberrypi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" height="20" style="vertical-align: middle;">
     
-  * ### _**Studing RUST**_ <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" height="20" style="vertical-align: middle;">
+  * ### _**Studing RUST**_ <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" height="20" style="vertical-align: middle;">
 
-  * ### _**Studing Assembly RISC-V**_ <img src="https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white" height="20" style="vertical-align: middle;">
+  * ### _**Studing Assembly RISC-V**_ <img src="https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" height="20" style="vertical-align: middle;">
 
 
   * ### _**Developing WASM APPs and studing HTML/CSS/JS**_ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" height="20" style="vertical-align: middle;"> <img src="https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" height="20" style="vertical-align: middle;">
