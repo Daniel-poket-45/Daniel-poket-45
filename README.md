@@ -1,3 +1,7 @@
+Welcome, thanks for visiting ;)
+
+![Visitantes](https://count.getloli.com/@visit-counter?name=visit-counter&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+
 ## My skills in development
   * _**years of C/C++**_
   * _**Firmware's and PLC programming**_
