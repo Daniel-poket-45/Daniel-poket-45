@@ -1,3 +1,14 @@
+@font-face {
+    font-family: "Minecraft";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src:
+        local("Minecraft"),
+        url("./minecraft.woff2") format("woff2"),
+        url("./minecraft.woff") format("woff");
+}
+
 Welcome, thanks for visiting ;)
 
 <p align="center">
